@@ -43,7 +43,7 @@ What I learned and implemented:
 
 
 Live Website:
-[http://13.62.50.25](http://13.62.50.25)
+http://13.62.50.25
 
 ![EC2 Running](project2-ec2-running.jpeg)
 ![Nginx Webpage](project2-nginx-webpage.png)
