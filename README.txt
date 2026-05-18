@@ -19,7 +19,7 @@ What I learned and implemented:
 - Deployed live portfolio accessible worldwide
 
 Live Website:
-[http://hasini-jupelly-portfolio-2026.s3-website.eu-north-1.amazonaws.com](http://hasini-jupelly-portfolio-2026.s3-website.eu-north-1.amazonaws.com)
+http://hasini-jupelly-portfolio-2026.s3-website.eu-north-1.amazonaws.com/
 
 ![S3 Bucket](project1-s3-bucket.jpeg)
 ![Live Site](project1-live-site.jpeg)
